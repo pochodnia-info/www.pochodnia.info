@@ -1,7 +1,6 @@
----
-title: Tytuł strony
 
----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5ODM2MTM5LC0yMDg4NzQ2NjEyXX0=
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE5hc3phIE1pc2phXG5leH
+RlbnNpb25zOlxuICBwcmVzZXQ6IGNvbW1vbm1hcmtcbiIsImhp
+c3RvcnkiOlsxNDg2NjY4MjcwLC0yMDg4NzQ2NjEyXX0=
 -->
