@@ -11,4 +11,6 @@ taxonomy:
     tag: [presentation]
 ---
 
-[presentation="presentations/placeholder-slides"]
+
+Example Embedded Presentation  
+[presentation="presentations/placeholder-slide"]

@@ -9,14 +9,8 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
-modular_content:
-    items: '@self.modular'
-    order:
-        by: folder
-        dir: dsc
 content:
-    items:
-        - '@self.children'
+    items: '@self.children'
     limit: 6
     order:
         by: date
@@ -27,8 +21,8 @@ bricklayer_layout: true
 display_post_summary:
     enabled: false
 feed:
-    limit: 10
     description: 'Sample Blog Description'
+    limit: 10
 pagination: true
 ---
 
